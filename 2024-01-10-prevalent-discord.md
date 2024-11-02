@@ -8,7 +8,7 @@ image: https://felipevillota.com/wp-content/uploads/2024/05/Captura-de-pantalla-
 optimized_image: 
 taxonomy:
   category:
-  - msc thesis
+  - mscthesis
   - ML
   - logisticregression
   - automatedcontentanalysis
