@@ -9,7 +9,6 @@ optimized_image:
 taxonomy:
     category: 
     - lab
-
- 
+    
 author: Felipe Villota 
 ---
