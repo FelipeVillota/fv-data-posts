@@ -9,7 +9,6 @@ optimized_image:
 taxonomy:
   category: 
   - lab
-  post_tag:
   - logisticregression
   - R
 author: Felipe Villota
