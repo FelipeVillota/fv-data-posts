@@ -4,7 +4,7 @@ layout: post
 title: Titanic case
 subtitle: Impact of Mr. Leonardo's absence on Titanic survivors' chances.
 description: 
-image: https://felipevillota.com/wp-content/uploads/2024/04/dominance.jpg
+featured_image: https://felipevillota.com/wp-content/uploads/2024/04/dominance.jpg
 optimized_image:
 category: lab
 tags:
