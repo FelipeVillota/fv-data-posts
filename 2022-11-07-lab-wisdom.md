@@ -8,7 +8,7 @@ image: https://felipevillota.com/wp-content/uploads/2024/04/cortisol-1.png
 optimized_image: 
 taxonomy:
   category: 
-   - lab
+  - lab
   - linearmixedmodels
   - R
 author: Felipe Villota
