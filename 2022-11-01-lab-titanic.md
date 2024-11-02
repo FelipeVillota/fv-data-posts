@@ -6,8 +6,10 @@ subtitle: Impact of Mr. Leonardo's absence on Titanic survivors' chances.
 description: 
 featured_image: https://felipevillota.com/wp-content/uploads/2024/04/dominance.jpg
 optimized_image:
-category: lab
-tags:
+taxonomy:
+  category: 
+  - lab
+  post_tag:
   - logisticregression
   - R
 author: Felipe Villota
