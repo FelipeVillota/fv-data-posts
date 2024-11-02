@@ -2,8 +2,8 @@
 date: 2022-11-07
 layout: post
 title: Wisdom tooth surgery
-subtitle: 
-description: Estimating the level of postoperative pain following wisdom tooth surgery using fixed-effect predictors, considering the clustering of treatment hospitals.
+subtitle: Estimating the level of postoperative pain following wisdom tooth surgery using fixed-effect predictors, considering the clustering of treatment hospitals.
+description: 
 image: https://felipevillota.com/wp-content/uploads/2024/04/cortisol-1.png
 optimized_image: 
 category: lab
