@@ -6,8 +6,9 @@ subtitle: Employing exploratory factor analysis (EFA) on the variables within th
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/04/pca.png
 optimized_image:
-category: lab
-tags:
+taxonomy:
+  category: 
+  - lab
   - EFA 
   - dimensionreduction
   - R

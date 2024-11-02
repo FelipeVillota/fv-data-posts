@@ -6,8 +6,9 @@ subtitle: Assessing the theoretical structure of intelligence test indicators an
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/04/sem.png
 optimized_image: 
-category: lab
-tags:
+taxonomy: 
+  category: 
+  - lab
   - SEM
   - R
 author: Felipe Villota 

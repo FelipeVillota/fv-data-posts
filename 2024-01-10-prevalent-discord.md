@@ -6,8 +6,9 @@ subtitle: This thesis explores public reactions to the Colombian peace process v
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/05/Captura-de-pantalla-546.png
 optimized_image: 
-category: msc thesis
-tags:
+taxonomy:
+  category:
+  - msc thesis
   - ML
   - logisticregression
   - automatedcontentanalysis

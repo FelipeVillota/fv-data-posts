@@ -6,9 +6,10 @@ subtitle: Estimating the level of postoperative pain following wisdom tooth surg
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/04/cortisol-1.png
 optimized_image: 
-category: lab
-tags:
-  - linearmixedmodels
+taxonomy:
+  category: 
+   - lab
+  - linear-mixed-models
   - R
 author: Felipe Villota
 ---

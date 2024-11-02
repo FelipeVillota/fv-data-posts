@@ -6,8 +6,9 @@ subtitle: Interactive map that visualizes 84,768 cases of reported missing perso
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/05/Captura-de-pantalla-548.png
 featured_image: https://github.com/FelipeVillota/fv-data-posts/blob/main/_images/mapa_col.png  
-category: microproject
-tags:
+taxonomy:
+  category: 
+  - microproject
   - map
   - leaflet
   - GIS

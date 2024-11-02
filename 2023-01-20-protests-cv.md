@@ -6,8 +6,10 @@ subtitle:
 description: 
 image: 
 optimized_image: 
-category: lab
-tags:
+taxonomy:
+    category: 
+    - lab
+
  
 author: Felipe Villota 
 ---
