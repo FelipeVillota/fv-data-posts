@@ -9,7 +9,7 @@ optimized_image:
 taxonomy:
   category: 
    - lab
-  - linear-mixed-models
+  - linearmixedmodels
   - R
 author: Felipe Villota
 ---
