@@ -1,5 +1,5 @@
 ---
-date: 2024-10-01
+date: 2024-20-01
 layout: post
 title: On the risks of using AI for Peace. Considerations from an agonistic peace perspective.
 subtitle:  
