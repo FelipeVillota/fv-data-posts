@@ -1,7 +1,7 @@
 ---
 date: 2024-10-01
 layout: post
-title: AI for Peace
+title: On the risks of using AI for Peace. Considerations from an agonistic peace perspective.
 subtitle:  
 description: 
 image: https://felipevillota.com/wp-content/uploads/2024/10/Captura-de-pantalla-561.png
