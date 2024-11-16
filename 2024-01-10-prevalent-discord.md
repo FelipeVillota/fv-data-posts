@@ -9,9 +9,9 @@ taxonomy:
   category:
   - mscthesis
   - ML
-  - logisticregression
-  - automatedcontentanalysis
-  - socialmediaresearch
+  - logistic regression
+  - automated content analysis
+  - social media research
   - R
 author: Felipe Villota 
 ---
