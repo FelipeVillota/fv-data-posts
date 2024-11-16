@@ -7,7 +7,10 @@ description:
 featured_image: _images/military_11.jpeg
 optimized_image: 
 taxonomy:
-  category: 
+  category:
+  - nlp
+  - automated content analysis
+  - military strategy 
   
  
 author: Felipe Villota 
