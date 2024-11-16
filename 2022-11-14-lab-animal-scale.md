@@ -4,7 +4,7 @@ layout: post
 title: Animal Rights Scale
 subtitle: Employing exploratory factor analysis (EFA) on the variables within the "Animal Rights Scale (ARS)" dataset to uncover underlying sets of latent factors reflected in participants' responses.
 description: 
-image: https://felipevillota.com/wp-content/uploads/2024/04/pca.png
+featured_image: _images/animal.jpeg
 optimized_image:
 taxonomy:
   category: 

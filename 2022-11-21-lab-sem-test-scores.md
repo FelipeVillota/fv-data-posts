@@ -4,8 +4,7 @@ layout: post
 title: Test scores
 subtitle: Assessing the theoretical structure of intelligence test indicators and their relationships between different test scores in the Holzinger and Swineford dataset using structural equation modeling.
 description: 
-image: https://felipevillota.com/wp-content/uploads/2024/04/sem.png
-optimized_image: 
+featured_image: _images/intelligence.jpeg
 taxonomy: 
   category: 
   - lab
