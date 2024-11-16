@@ -5,7 +5,6 @@ title: Wisdom tooth surgery
 subtitle: Estimating the level of postoperative pain following wisdom tooth surgery using fixed-effect predictors, considering the clustering of treatment hospitals.
 description: 
 featured_image: _images/wisdom.jpeg
-optimized_image: 
 taxonomy:
   category: 
   - lab
