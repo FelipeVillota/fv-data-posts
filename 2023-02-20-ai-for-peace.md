@@ -4,8 +4,7 @@ layout: post
 title: On the risks of using AI for Peace. Considerations from an agonistic peace perspective.
 subtitle:  
 description: 
-image: 
-optimized_image: 
+image: https://felipevillota.com/wp-content/uploads/2024/08/q_1.jpg
 taxonomy:
   category: 
   - essay
