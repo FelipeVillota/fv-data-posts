@@ -7,7 +7,7 @@ description:
 featured_image: _images/Captura-de-pantalla-546.png
 taxonomy:
   category:
-  - mscthesis
+  - msc thesis
   - ML
   - logistic regression
   - automated content analysis
