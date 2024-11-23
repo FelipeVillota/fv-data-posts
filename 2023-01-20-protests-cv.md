@@ -4,8 +4,7 @@ layout: post
 title: Protests
 subtitle: 
 description: 
-image: 
-optimized_image: 
+featured_image: _images/po-bru.png  
 taxonomy:
     category: 
     - lab
