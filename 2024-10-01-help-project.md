@@ -3,7 +3,7 @@ date: 2024-10-01
 layout: post
 title: HELP 
 subtitle: Agrupamiento de países para su priorización en el envío de ayuda humanitaria.
-featured_image: _images/
+featured_image: _images/newplot.png
 taxonomy:
   category: 
   - project
