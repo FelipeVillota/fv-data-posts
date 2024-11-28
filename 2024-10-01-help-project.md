@@ -13,7 +13,7 @@ taxonomy:
   - clustering (K-means, DBSCAN, AHC, Spectral, Gaussian Mixture)
   - principal component analysis
   - in-depth EDA 
-  - Modelos con doble capa de optimización
+  - modelos con doble capa de optimización
  
 author: Felipe Villota 
 ---
