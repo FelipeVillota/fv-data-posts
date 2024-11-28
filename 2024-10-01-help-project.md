@@ -2,7 +2,7 @@
 date: 2024-10-01
 layout: post
 title: HELP 
-subtitle: Agrupamiento de países para su priorización en el envío de ayuda humanitaria mediante métodos de aprendizaje automático no supervisado. 
+subtitle: Agrupamiento de países para su priorización en el envío de ayuda humanitaria.
 taxonomy:
   category: 
   - project
