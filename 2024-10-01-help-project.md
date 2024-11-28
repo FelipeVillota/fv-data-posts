@@ -17,6 +17,6 @@ taxonomy:
  
 author: Felipe Villota 
 ---
-You can access the interactive Colab notebook here:
+Access the interactive Colab notebook here:
 
 [View Colab Notebook](https://colab.research.google.com/drive/1JssOq-cpvAY7fJFhXAKxy1mK_IX7Q5_e)
