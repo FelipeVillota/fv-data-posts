@@ -8,6 +8,10 @@ featured_image: _images/po-bru.png
 taxonomy:
     category: 
     - lab
+    - computer vision
+    - face detection
+    - object recognition
+    - color detection
     
 author: Felipe Villota 
 ---
