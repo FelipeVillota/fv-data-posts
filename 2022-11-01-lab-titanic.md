@@ -13,4 +13,4 @@ taxonomy:
 author: Felipe Villota
 paginate: true
 ---
-[click here to view it](https://felipevillota.com/wp-content/uploads/2024/04/LAB1_logistic_regression_titanic.pdf).
+[click here to view it](https://felipevillota.com/wp-content/uploads/2024/04/LAB1_logistic_regression_titanic.pdf)
