@@ -13,5 +13,3 @@ taxonomy:
 author: Felipe Villota
 ---
 
-
- <iframe src="https://docs.google.com/viewer?url=https://felipevillota.com/wp-content/uploads/2024/04/LAB2_mixed_lm_wisdom.pdf&embedded=true" width="100%" height="600px"></iframe>
