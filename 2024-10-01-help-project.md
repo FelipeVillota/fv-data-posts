@@ -4,7 +4,6 @@ layout: post
 title: HELP 
 subtitle: Agrupamiento de países para su priorización en el envío de ayuda humanitaria mediante métodos de aprendizaje automático no supervisado. Reducción de dimensionalidad (PCA, t-SNE) + clustering (K-means, DBSCAN, AHC, Spectral, Gaussian Mixture). 
 Modelos con doble capa de optimización.
-description: 
 taxonomy:
   category: 
   - project
