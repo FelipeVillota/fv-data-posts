@@ -15,5 +15,10 @@ taxonomy:
 author: Felipe Villota 
 ---
 
-<iframe src="https://docs.google.com/viewer?url=https://felipevillota.com/wp-content/uploads/2024/04/LAB3_dimension_reduction_animal.pdf&embedded=true" width="100%" height="600px"></iframe>
+<iframe 
+    src="https://docs.google.com/viewer?url=https://felipevillota.com/wp-content/uploads/2024/11/ai_peace.pdf&embedded=true" 
+    width="100%" 
+    height="600px" 
+    style="border: none;">
+</iframe>
 
