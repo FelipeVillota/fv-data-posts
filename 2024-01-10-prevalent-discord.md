@@ -17,4 +17,3 @@ author: Felipe Villota
 ---
 
 Access the document via <a href="https://lup.lub.lu.se/student-papers/search/publication/9149293" target="_blank" class="creator">LUP Student Papers</a>.
-
