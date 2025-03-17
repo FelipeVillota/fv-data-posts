@@ -16,4 +16,4 @@ taxonomy:
 author: Felipe Villota 
 ---
 
-Access the app <a href="https://felipevillota.shinyapps.io/lucha-drogas/" target="_blank" class="creator" style="color: red; text-decoration: none;"><b>here</b></a>.
+Access the app <a href="https://felipevillota.shinyapps.io/lucha-drogas/" target="_blank" class="creator" style="color: green; text-decoration: none;"><b>here</b></a>.
