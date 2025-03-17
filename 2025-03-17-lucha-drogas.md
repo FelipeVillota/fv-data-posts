@@ -1,7 +1,7 @@
 ---
 date: 2025-03-17
 layout: post
-title: COLOMBIA VS DROGAS - DATA VISUALIZATION APP
+title: Colombia vs Drogas - DATA VISUALIZATION APP
 subtitle: 
 featured_image: _images/lucha-drogas-app.png
 taxonomy:
@@ -16,4 +16,4 @@ taxonomy:
 author: Felipe Villota 
 ---
 
-<iframe src="https://felipevillota.shinyapps.io/lucha-drogas/" width="100%" height="600px"></iframe>
+Access the app <a href="https://felipevillota.shinyapps.io/lucha-drogas/" target="_blank" class="creator"> here</a>.
