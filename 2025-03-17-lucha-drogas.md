@@ -6,8 +6,9 @@ subtitle:
 featured_image: _images/lucha-drogas-app.png
 taxonomy:
   category: 
-  - Shiny
   - Colombia
+  - Ministerio de Defensa
+  - Shiny
   - app
   - drugs
   - lucha contra las drogas
