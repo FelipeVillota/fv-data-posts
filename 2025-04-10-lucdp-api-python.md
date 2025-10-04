@@ -13,6 +13,4 @@ taxonomy:
 author: Felipe Villota 
 ---
 
-Access the interactive Colab notebook here:
-
-[View Colab Notebook](https://colab.research.google.com/drive/1JssOq-cpvAY7fJFhXAKxy1mK_IX7Q5_e)
+[Access](https://github.com/FelipeVillota/ic-ct) the repository.
