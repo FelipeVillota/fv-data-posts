@@ -3,7 +3,7 @@ date: 2025-04-10
 layout: post
 title: APIs with Python. Uppsala Conflict Data Program API
 subtitle: 
-featured_image: _images/lucha-drogas-app.png
+featured_image: _images/up.png
 taxonomy:
   category: 
   - Python
