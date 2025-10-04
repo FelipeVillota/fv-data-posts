@@ -13,4 +13,4 @@ taxonomy:
 author: Felipe Villota 
 ---
 
-[Access](https://github.com/FelipeVillota/ic-ct) the repository.
+[Access](https://github.com/FelipeVillota/ic-ct/tree/main/apis) the repository.
