@@ -9,6 +9,8 @@ taxonomy:
   - Data Engineering
   - Data Cleaning
   - R
+  - Data Management
+  - tidyverse
  
 author: Felipe Villota 
 ---
